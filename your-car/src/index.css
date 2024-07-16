@@ -52,3 +52,41 @@ span{
     text-align: end;
 
 }
+/*------------------------ About ------------------------------*/
+.about{
+ margin-top: 5px;
+ margin-bottom: 50px;
+ display: flex;
+ margin-right: 200px;
+ margin-left: 200px;
+ gap: 15rem;
+}
+
+.about img{
+    margin-top: 150px;
+}
+.about h1{
+    color: #ebebeb;
+    font-size: 128px;
+    font-family: Lora;
+    font-weight: 700;
+}
+.text h2{
+    position: absolute;
+    top: 1455px;
+    left: 0;
+    color: #741906;
+    font-size: 56px;
+    font-family: Lora;
+    font-weight: 700;
+    margin-left: 220px;
+
+}
+.text p{
+   
+        color: #232730;
+        font-size: 20px;
+        font-family: Nunito Sans;
+        line-height: 24px;
+        letter-spacing: 1px;
+}
